@@ -1,0 +1,13 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# SQL Server / SSMS artifacts
+*.bak
+*.mdf
+*.ldf
+*.ssmssln
+*.ssmssqlproj
